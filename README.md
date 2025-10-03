@@ -7,11 +7,17 @@ Load the data into a SQL database for structured analysis.
 ## SQL Database & Table Creation
 Set up a relational database using PostgreSQL.
 Create tables to organize data:
+
 Aggregated Tables
+
 aggregated_user → user-related data
+
 aggregated_transaction → aggregated transaction data
+
 aggregated_insurance → insurance-related data
+
 Map Tables
+
 map_user → mapping user data
 map_map → mapping values for states & districts
 map_insurance → mapping insurance data
