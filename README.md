@@ -48,9 +48,9 @@ Build an interactive Streamlit dashboard to integrate the results and visualizat
 
 # Notes:
 The dashboard addresses five key business cases, each designed to extract actionable insights from PhonePe transaction data:
-→ Decoding Transaction Dynamics
-→ Device Dominance and User Engagement
-→ Transaction Analysis for Market Expansion
-→ Insurance Engagement Analysis
-→ User Engagement and Growth Strategy
-Each case study is analyzed through SQL queries, Python functions, and interactive visualizations in Streamlit, enabling stakeholders to interpret trends effectively.
+\n→ Decoding Transaction Dynamics
+\n→ Device Dominance and User Engagement
+\n→ Transaction Analysis for Market Expansion
+\n→ Insurance Engagement Analysis
+\n→ User Engagement and Growth Strategy
+\nEach case study is analyzed through SQL queries, Python functions, and interactive visualizations in Streamlit, enabling stakeholders to interpret trends effectively.
