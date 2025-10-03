@@ -76,7 +76,7 @@ Step 4 → Dashboard Development:
 
 Build an interactive Streamlit dashboard to integrate the results and visualizations. The dashboard allows users to explore transactions, insurance, and user trends dynamically through filters, plots, and maps.
 
-# Notes:
+# Note:
 The dashboard addresses five key business cases, each designed to extract actionable insights from PhonePe transaction data:
 
 → Decoding Transaction Dynamics
