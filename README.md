@@ -91,9 +91,9 @@ The dashboard addresses five key business cases, each designed to extract action
 
 Each case study is analyzed through SQL queries, Python functions, and interactive visualizations in Streamlit, enabling stakeholders to interpret trends effectively.
 
-## Author
+### AUTHOR
 DHANUSHKUMAR S
 
-## GITHUB
+### GITHUB-ID
 
-## Phonepe Transaction Intelligence Dashboard (Streamlit Link) :
+### Phonepe Transaction Intelligence Dashboard (Streamlit Link) :
