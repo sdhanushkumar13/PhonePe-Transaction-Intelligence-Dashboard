@@ -90,3 +90,10 @@ The dashboard addresses five key business cases, each designed to extract action
 → User Engagement and Growth Strategy
 
 Each case study is analyzed through SQL queries, Python functions, and interactive visualizations in Streamlit, enabling stakeholders to interpret trends effectively.
+
+## Author
+DHANUSHKUMAR S
+
+## GITHUB
+
+## Phonepe Transaction Intelligence Dashboard (Streamlit Link) :
